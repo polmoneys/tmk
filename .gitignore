@@ -1,0 +1,8 @@
+node_modules
+.eslintcache
+dist
+docs.md
+.DS_Store
+/test-results/
+/playwright-report/
+/playwright/.cache/
