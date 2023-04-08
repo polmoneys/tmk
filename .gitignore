@@ -1,6 +1,6 @@
 node_modules
 .eslintcache
-dist
+stories/dist
 docs.md
 .DS_Store
 /test-results/

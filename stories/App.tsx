@@ -1,4 +1,15 @@
-import { Col, Couple, Grid, Group, KeyValue, Layers, List, Row } from './system'
+import {
+  Col,
+  Couple,
+  Grid,
+  Group,
+  KeyValue,
+  Layers,
+  List,
+  Row,
+} from 'tmk-react'
+import '../node_modules/tmk-react/dist/style.css'
+
 import {
   type Author,
   Icon,

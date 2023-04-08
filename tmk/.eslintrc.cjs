@@ -22,7 +22,7 @@ module.exports = {
   overrides: [],
   parserOptions: {
     parser: '@typescript-eslint/parser',
-    project: ['./tsconfig.json'],
+    project: ['./tmk/tsconfig.json'],
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
@@ -33,4 +33,5 @@ module.exports = {
     '@typescript-eslint/no-confusing-void-expression': 'warn',
     'no-new': 'warn',
   },
+  include: ['./src'],
 }

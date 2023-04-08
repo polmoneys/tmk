@@ -78,7 +78,7 @@
 }
 
 /* List */
-[data-list=''] {
+[data-list] {
   height: max-content;
   list-style: none;
   width: 100%;
@@ -111,6 +111,7 @@
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+
 [data-list='item'] > [data-list='end'],
 [data-list='item'] > [data-list='start'] {
   align-items: center;
@@ -118,6 +119,7 @@
   justify-items: center;
   overflow: visible;
   place-items: center;
+  align-self: center;
 }
 [data-list='item'] > [data-list='start'] {
   padding-right: 0;

@@ -1,5 +1,5 @@
 import { type AriaAttributes } from 'react'
-import { type Datum } from './system/KeyValue'
+import { type Datum } from 'tmk-react'
 
 interface IconProps extends AriaAttributes {}
 export const Icon = (props: IconProps): JSX.Element => (
