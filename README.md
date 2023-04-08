@@ -9,7 +9,7 @@ Erik Gunnar Asplund on **Swedish Grace**.
 
 ## TLDR
 
-Interfaces are made of a wild combination of materials. To my knowledge (tmk) I'd suggest 
+Interfaces are made of a wild combination of materials. To my knowledge (tmk) this is how should do it.  
 
 ### View, Grid
 
@@ -29,7 +29,7 @@ Render complex data with slots, or as in [Table](https://github.com/polmoneys/re
 
 ### Related  
 
-Morea about [design systems](https://github.com/polmoneys/boost), [apps](https://github.com/polmoneys/react-app) and [css](https://github.com/polmoneys/css-unit). 
+More about [design systems](https://github.com/polmoneys/boost), [apps](https://github.com/polmoneys/react-app) and [css](https://github.com/polmoneys/css-unit). 
 
 ### Goal 💐
 
